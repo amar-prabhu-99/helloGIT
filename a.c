@@ -1,5 +1,4 @@
 #include<stdio.h>
 void main(){
-printf("Hello Git");
-printf("Change 1");
+  printf("Hello Git");//prints hello world.
 }
